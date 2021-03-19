@@ -1,0 +1,11 @@
+.container {
+	height: 90vh;
+	background-image: linear-gradient(
+		to right top,
+		$color-primary,
+		$color-secondary
+	);
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
