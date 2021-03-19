@@ -1,0 +1,23 @@
+{
+	"name": "commerce_features",
+	"version": "1.0.0",
+	"description": "An ecommerce features section",
+	"main": "index.js",
+	"dependencies": {},
+	"devDependencies": {
+		"node-sass": "^5.0.0"
+	},
+	"scripts": {
+		"compile:sass": "node-sass sass/main.scss css/style.css -w"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/alfredoPark-48/ecommerce_features.git"
+	},
+	"author": "Alfredo Jeonghyun Park",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/alfredoPark-48/ecommerce_features/issues"
+	},
+	"homepage": "https://github.com/alfredoPark-48/ecommerce_features#readme"
+}
